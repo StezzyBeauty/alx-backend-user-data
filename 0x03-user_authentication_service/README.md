@@ -1,0 +1,4 @@
+# 0x03. User authentication service
+
+<img src=https://camo.githubusercontent.com/fec91e1baa51611c12e5aed82c72e403c198528f66fbadd9dfd8d79fec851435/68747470733a2f2f63646e2d6270706c6d2e6e6974726f63646e2e636f6d2f4d4a656652774f52766c477a626c657045495249677271514643476c694769472f6173736574732f7374617469632f6f7074696d697a65642f7265762d373266393461652f77702d636f6e74656e742f75706c6f6164732f323032302f30372f557365722d41757468656e7469636174696f6e5f2d556e6465727374616e64696e672d7468652d4261736963732d546f702d546970732e6a7067>
+In the industry, you should not implement your own authentication system and use a module or framework that doing it for you (like in Python-Flask: Flask-User. Here, for the learning purpose, we will walk through each step of this mechanism to understand it by doing.
